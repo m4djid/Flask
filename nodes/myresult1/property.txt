@@ -1,0 +1,2 @@
+ivo://ivoa.net/vospace/core#description=My award winning images
+ivo://ivoa.net/vospace/core#title=The Hitchhiker's Guide to the Galaxy

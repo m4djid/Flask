@@ -1,0 +1,1 @@
+ivo://ivoa.net/vospace/core#description=My award winning images

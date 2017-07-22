@@ -1,0 +1,2 @@
+ivo://ivoa.net/vospace/core#anyview
+ivo://ivoa.net/vospace/core#fits
